@@ -282,5 +282,5 @@ The result of testing will be saved in the sub-directory of `outpus` which is sp
 
 ### Trained Models
 
-The trained models can be downloaded from https://drive.google.com/drive/folders/1tgEI7GOcb2zF29dq0obYP1SMkXR38cpZ?
-usp=sharing to test the performance.
+The trained models can be downloaded from [https://drive.google.com/drive/folders/1tgEI7GOcb2zF29dq0obYP1SMkXR38cpZ?
+usp=sharing](https://drive.google.com/drive/folders/1cR4_6CX8tfGEHz_UytT5QbHKXSEOJOxX) to test the performance.
