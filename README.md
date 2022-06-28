@@ -280,3 +280,7 @@ The specific settings for `pd8x`, `pdfs4x`, `pdfs8x` are similar to the part of 
 The result of testing will be saved in the sub-directory of `outpus` which is specified by the argument `--output_dir`. The output directory contains reconstructions and evaluation metrics.
 
 
+### Trained Models
+
+The trained models can be downloaded from https://drive.google.com/drive/folders/1tgEI7GOcb2zF29dq0obYP1SMkXR38cpZ?
+usp=sharing to test the performance.
